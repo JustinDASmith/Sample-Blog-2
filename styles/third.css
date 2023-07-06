@@ -1,0 +1,68 @@
+h1{
+    color:red;
+}
+
+ul{
+    color: green;
+    list-style: none;
+    display: flex;
+}
+
+p{
+    color:gold;
+}
+
+footer{
+    color: black;
+}
+
+.firstcard{
+    color: blue;
+}
+
+.secondcard{
+    color: crimson;
+}
+
+.thirdcard{
+    color: orange;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+li{
+   display: grid;
+    padding: 5%;
+}
+
+.socialsharingsection{
+    display: grid;
+    padding-top: 20%;
+}
+
+.socialselection{
+    display: block;
+}
+
+.authorinfosection{
+    padding: 4%;
+    display: flex;
+}
+
+img{
+    width: 80%;
+}
+
+.avatar{
+    width: 50%;
+}
+
+blockquote{
+    display: block;
+    justify-content: center;
+    letter-spacing: 2px;
+    color: green;
+}
